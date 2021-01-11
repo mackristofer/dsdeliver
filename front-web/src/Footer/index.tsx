@@ -7,13 +7,13 @@ function Footer(){
      <footer className="main-footer">
          App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
          <div className="footer-icons">
-        <a href="#" target="_new">
+        <a href="www.java.com" target="_new">
             <YouTubeIcon />
             </a>
-        <a href="#" target="_new">
+        <a href="www.java.com" target="_new">
             <InstagramIcon />
             </a>
-        <a href="#" target="_new">
+        <a href="www.java.com" target="_new">
             <LinkedinIcon />
             </a>
          </div>

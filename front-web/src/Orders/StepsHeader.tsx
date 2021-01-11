@@ -4,6 +4,7 @@ function StepsHeader(){
            <div className="orders-steps-content">
             <h1 className="steps-title">SIGA AS <br /> ETAPAS</h1>
            </div>
+           
            <ul className="steps-items">
                <li>
                 <span className="steps-number">1</span>
@@ -14,7 +15,7 @@ function StepsHeader(){
                Despois clique em <strong>"Enviar pedido"</strong>
                </li>
            </ul>
-
+           
        </header>
     )
 
